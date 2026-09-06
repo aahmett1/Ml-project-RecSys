@@ -1,11 +1,17 @@
 amazon2023/
 data/
 
+*.index
+*.npy
 *.parquet
 *.jsonl.gz
 *.json.gz
+*.npz
+*.cbm
+catboost_info
 
 venv/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
