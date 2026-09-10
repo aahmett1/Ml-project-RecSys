@@ -176,7 +176,7 @@
 
 ## Стек
 
-`Python` · `Pandas` · `NumPy` · `SciPy` · `implicit` · `Sentence Transformers` · `PyTorch` · `FAISS` · `CatBoost` · `scikit-learn` · `Matplotlib` · `Seaborn`
+`Python` · `Pandas` · `NumPy` · `SciPy` · `implicit` · `Sentence Transformers`  · `FAISS` · `CatBoost` · `scikit-learn` · `Matplotlib` · `Seaborn`
 
 ## Итог
 
